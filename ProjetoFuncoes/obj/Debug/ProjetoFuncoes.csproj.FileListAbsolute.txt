@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\ProjetoFuncoes\bin\Debug\ProjetoFuncoes.exe.config
+C:\Users\Aluno\source\repos\ProjetoFuncoes\bin\Debug\ProjetoFuncoes.exe
+C:\Users\Aluno\source\repos\ProjetoFuncoes\bin\Debug\ProjetoFuncoes.pdb
+C:\Users\Aluno\source\repos\ProjetoFuncoes\obj\Debug\ProjetoFuncoes.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ProjetoFuncoes\obj\Debug\ProjetoFuncoes.Form1.resources
+C:\Users\Aluno\source\repos\ProjetoFuncoes\obj\Debug\ProjetoFuncoes.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ProjetoFuncoes\obj\Debug\ProjetoFuncoes.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ProjetoFuncoes\obj\Debug\ProjetoFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProjetoFuncoes\obj\Debug\ProjetoFuncoes.exe
+C:\Users\Aluno\source\repos\ProjetoFuncoes\obj\Debug\ProjetoFuncoes.pdb
